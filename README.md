@@ -18,8 +18,8 @@ Tampilan dalam Admin:
 <br/>
 <br/>
 Tampilan Dalam Operator:
-![pictures](img/5.png)
-<br/>
-<br/>
 ![pictures](img/6.png)
+<br/>
+<br/>
+![pictures](img/5.png)
 <br/>
