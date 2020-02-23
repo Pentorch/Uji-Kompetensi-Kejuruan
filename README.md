@@ -10,10 +10,16 @@ Tampilan utama:
 ![pictures](img/1.png)
 <br/>
 <br/>
-Tampilan dalam:
+Tampilan dalam Admin:
 ![pictures](img/2.png)
 <br/>
 <br/>
-Tampilan ketika button **ADD** ditekan:
 ![pictures](img/3.png)
+<br/>
+<br/>
+Tampilan Dalam Operator:
+![pictures](img/5.png)
+<br/>
+<br/>
+![pictures](img/6.png)
 <br/>
